@@ -6,6 +6,4 @@
 - :wink: I don't get excited about the tools, but about the products I can make with them
 - :book: Learning is living
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-<h3 align="center">I'm always building in public through <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist" style="margin-top: 15px;"/></a></h3>
-</div>
+<h3 align="center">I'm always building in public through <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank" style="margin-top: 15px;"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist"/></a></h3>
