@@ -1,4 +1,5 @@
 <h1 style="text-align: center;">Hi! I'm Alejandro. I build minimalist apps.</h1>
+<h3 style="text-align: center;">H3 that is center aligned</h3>
 
 - :video_game: I'm a Backend and Unity Game Developer working in Burlingame Studios :hibiscus:
 - :rocket: As an #indiehacker I’m currently working on 'Nutrition Buddy' my new AI powered nutrition app!
