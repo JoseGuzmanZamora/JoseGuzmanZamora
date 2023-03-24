@@ -8,7 +8,7 @@
 
 <h3 align="center">
   I'm always building in public through 
-  <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank" style="display: inline-block; vertical-align: middle;">
+  <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank" style="display: inline-block; margin-top: 5px;">
     <img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist"/>
   </a>
 </h3>
