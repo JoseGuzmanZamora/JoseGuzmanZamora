@@ -7,5 +7,5 @@
 - :book: Learning is living
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-<h3 align="center">I'm always building in public through <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist" style="margin-top: 5px;"/></a></h3>
+<h3 align="center">I'm always building in public through <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist" style="margin-top: 15px;"/></a></h3>
 </div>
