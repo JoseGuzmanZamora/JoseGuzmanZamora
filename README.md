@@ -6,4 +6,4 @@
 - :wink: I don't get excited about the tools, but about the products I can make with them
 - :book: Learning is living
 
-## If you are interested, I'm always building in public through twitter <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist"/></a>
+### I'm always building in public through twitter <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" target="blank"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist"/></a>
