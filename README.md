@@ -7,3 +7,5 @@
 - :book: Learning is living
 
 ## If you are interested, I'm always #buildinginpublic through twitter ![Twitter Follow](https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist)
+
+<a href="https://twitter.com/IndieMinimalist" target="blank"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist"/></a>
