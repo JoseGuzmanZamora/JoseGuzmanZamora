@@ -7,8 +7,6 @@
 - :book: Learning is living
 
 <div align="center">
-  <h3 style="display: inline-block; vertical-align: middle;">I'm always building in public through</h3>
-  <a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" style="display: inline-block; vertical-align: middle;">
-    <img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist"/>
+  <h3 style="display: inline-block; vertical-align: middle;">I'm always building in public through: </h3><a href="https://twitter.com/intent/follow?screen_name=IndieMinimalist" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/twitter/follow/IndieMinimalist?label=%40IndieMinimalist" alt="IndieMinimalist"/>
   </a>
 </div>
