@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Alejandro. I build minimalist apps.</h1>
 
-- :video_game: I'm a Backend and Unity Game Developer working in Burlingame Studios :hibiscus:
+- :video_game: I'm a Backend and Unity Game Developer working at Burlingame Studios :hibiscus:
 - :rocket: As an #indiehacker I’m currently working on 'Nutrition Buddy' my new AI powered nutrition app!
-- 🌱 I’m currently learning Flutter Development, focused on IOS
+- 🌱 I’m currently learning React Native Development
 - :wink: I don't get excited about the tools, but about the products I can make with them
 - :book: Learning is living
 
