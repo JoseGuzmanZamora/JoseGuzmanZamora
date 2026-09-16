@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Alejandro. I build minimalist apps.</h1>
 
-- :video_game: I'm a Senior Software Engineer / Forward Deployed Engineer :hibiscus:
+- :video_game: I'm a Senior Software Engineer / Forward Deployed Engineer
 - :rocket: As an #indiehacker I’m currently working on a lot of minimalist iOS apps!
 - 🌱 I’m currently learning React Native Development
 - :wink: I don't get excited about the tools, but about the products I can make with them
